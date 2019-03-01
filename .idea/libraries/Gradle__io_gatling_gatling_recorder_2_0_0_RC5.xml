@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.gatling:gatling-recorder:2.0.0-RC5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-recorder/2.0.0-RC5/ea73085cd4725e7624603e761b6a8619bac2d128/gatling-recorder-2.0.0-RC5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-recorder/2.0.0-RC5/934fa22564255e412e67196d45fab0353f805c3c/gatling-recorder-2.0.0-RC5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

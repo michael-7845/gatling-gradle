@@ -12,7 +12,9 @@ repositories {
 
 dependencies {
     compile 'org.scala-lang:scala-library:2.10.1'
-    testCompile 'io.gatling.highcharts:gatling-charts-highcharts:2.0.0-M3a'
+//    testCompile 'io.gatling.highcharts:gatling-charts-highcharts:2.0.0-M3'
+    // https://mvnrepository.com/artifact/io.gatling.highcharts/gatling-charts-highcharts
+    compile group: 'io.gatling.highcharts', name: 'gatling-charts-highcharts', version: '2.0.0-RC5'
 }
 
 sourceSets {

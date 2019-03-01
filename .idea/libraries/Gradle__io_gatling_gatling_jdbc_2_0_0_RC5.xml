@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.gatling:gatling-jdbc:2.0.0-RC5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-jdbc/2.0.0-RC5/f7a2cb8bd0df791e8d003a6a87482fcd1d15aeaa/gatling-jdbc-2.0.0-RC5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-jdbc/2.0.0-RC5/65f8898aa331d9c044d20fb708841bde0176edc3/gatling-jdbc-2.0.0-RC5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

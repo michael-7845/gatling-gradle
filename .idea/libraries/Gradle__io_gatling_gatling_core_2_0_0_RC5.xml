@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.gatling:gatling-core:2.0.0-RC5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-core/2.0.0-RC5/e7b256db8487176e27d6e5cb077e5cb4770c6b0e/gatling-core-2.0.0-RC5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-core/2.0.0-RC5/bd49cb13a5773cf601f4a7f15df4db3c07f57332/gatling-core-2.0.0-RC5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

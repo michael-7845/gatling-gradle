@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.sf.saxon:Saxon-HE:compressed:9.5.1-6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.saxon/Saxon-HE/9.5.1-6/1308048af2b767592b3c2186d0ef70043ea6a1f6/Saxon-HE-9.5.1-6-compressed.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.saxon/Saxon-HE/9.5.1-6/3f6c17624cc80f64fdd6f87255ed68319becb924/Saxon-HE-9.5.1-6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
